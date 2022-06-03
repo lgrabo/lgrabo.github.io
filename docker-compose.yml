@@ -1,0 +1,9 @@
+services:
+  server:
+    image: klakegg/hugo:ext-alpine
+    command: server
+    volumes:
+      - "./legr:/src"
+    ports:
+      - "1313:1313"
+    entrypoint: hugo server --renderToDisk   
