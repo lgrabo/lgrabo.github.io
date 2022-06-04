@@ -1,5 +1,5 @@
 baseurl = "https://lgrabo.github.io/"
-title = "legr"
+title = "LeGr"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -14,7 +14,7 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-  #author = "John Doe"
+  author = "Lennart Grabo"
   #info = "Full Stack DevOps and Magician"
   #description = "John Doe's personal website"
   #keywords = "blog,developer,personal"
@@ -65,10 +65,10 @@ disqusShortname = "yourdiscussshortname"
 #  url = "https://twitter.com/johndoe/"
 
 # Menu links
-#[[menu.main]]
-#  name = "Blog"
-#  weight = 1
-#  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url  = "#"
 #[[menu.main]]
 #  name = "About"
 #  weight = 2
