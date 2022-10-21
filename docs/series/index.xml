@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on LeGr</title>
-    <link>http://localhost:1313/series/</link>
-    <description>Recent content in Series on LeGr</description>
+    <title>Series on Lennart</title>
+    <link>https://lgrabo.github.io/series/</link>
+    <description>Recent content in Series on Lennart</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://lgrabo.github.io/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

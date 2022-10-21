@@ -52,7 +52,7 @@ disqusShortname = "yourdiscussshortname"
   name = "Linkedin"
   icon = "fa fa-linkedin fa-2x"
   weight = 1
-  url = "https://github.com/lgrabo/"  
+  url = "https://www.linkedin.com/in/lgrabo/"  
 [[params.social]]
   name = "Email"
   icon = "fa fa-envelope fa-2x"
